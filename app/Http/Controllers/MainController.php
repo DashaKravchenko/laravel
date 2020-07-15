@@ -9,6 +9,7 @@ use \App\Review;
 
 class MainController extends Controller
 {
+    //main page
     public function index(){
         // $title = 'Main Page';
         // $subtitle = '<em>My First laravel project</em>';
